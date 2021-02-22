@@ -4,24 +4,15 @@ This repository is meant to store scripts, assets, etc. made during CSE4410 Spri
 
 **Assignments:**
 
-- [x] *Microgame 1*
-
-
-Choose between Pong or Breakout
+- [x] *Microgame 1* : Pong or Breakout
 
   Chose Pong
 
-- [ ] *Microgame 2*
-
-
-Tower Defense or Shoot 'Em Up
+- [ ] *Microgame 2* : Tower Defense or Shoot 'Em Up
 
   Chose a Shoot 'Em Up
 
-- [ ] *Microgame 3*
-
-
-Action, Platformer, or Racing
+- [ ] *Microgame 3* : Action, Platformer, or Racing
 
   Chose a Platformer
 
