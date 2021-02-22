@@ -22,6 +22,7 @@ This repository is meant to store scripts, assets, etc. made during CSE4410 Spri
 Add at least 3 new features/mechanics on top of a previous microgame, or create a brand new one
 
 - [ ] *Term Project*
+
 Create on game by the end of the semester
 
 
