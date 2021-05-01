@@ -8,22 +8,24 @@ This repository is meant to store scripts, assets, etc. made during CSE4410 Spri
 
   Chose Pong
 
-- [ ] *Microgame 2* : Tower Defense or Shoot 'Em Up
+- [x] *Microgame 2* : Tower Defense or Shoot 'Em Up
 
-  Chose a Shoot 'Em Up
+  Chose a Shoot 'Em Up game (Space 'Em Up)
 
-- [ ] *Microgame 3* : Action, Platformer, or Racing
+- [x] *Microgame 3* : Action, Platformer, or Racing
 
-  Chose a Platformer
+  Chose a racing game (Happy Moto Wheels)
 
-- [ ] *Microgame 4*
+- [x] *Microgame 4*
 
 
 Add at least 3 new features/mechanics on top of a previous microgame, or create a brand new one
+Chose a platformer (Platformer Heist)
 
 - [ ] *Term Project*
 
 Create on game by the end of the semester
+Working on a point and click escape room
 
 
 
