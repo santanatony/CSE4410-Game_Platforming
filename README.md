@@ -23,7 +23,7 @@ Add at least 3 new features/mechanics on top of a previous microgame, or create 
 
 Chose a platformer (Platformer Heist)
 
-- [ ] *Term Project*
+- [x] *Term Project*
 
 Create on game by the end of the semester
 
